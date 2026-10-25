@@ -1,3 +1,13 @@
+## Français
+
+Documentation archivée et dépréciée liée à TON. Exemple : s’en servir pour comprendre une ancienne version, puis vérifier les instructions actuelles auprès des sources TON maintenues.
+
+## English
+
+Archived, deprecated documentation related to TON. Example: use it to understand an older version, then verify current instructions against maintained TON sources.
+
+---
+
 # ARCHIVED! Actual TON documentation is moved to: https://github.com/ton-org/docs
 
 <img align="left" width="300px" src="static\img\readme\about.png">
